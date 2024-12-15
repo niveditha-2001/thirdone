@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.c1{
+    display: flex;
+    list-style: none;
+   
+}
+a{
+    text-decoration: none;
+}
+.c2{
+    padding: 30px;
+}
+.c3{
+    padding: 30px;
+}
+.c4{
+    padding-left: 800px;
+}
+img[alt=npm]{
+    height: 80px;
+    width: 90px;
+}
+.c5{
+    padding-left: 60px;
+    margin: 10px;
+}
+#input{
+    padding: 20px 800px 20px 20px;
+    background-color: whitesmoke;
+}
+.c6{
+    padding: 20px 20px 20px 20px
+}
+.cl{
+ background-color: black;
+ color: #fff;
+}
+div{
+     background-image: linear-gradient(
+      270deg,
+      rgba(176, 42, 42, .16) 0%,
+      rgba(176, 42, 42, .56) 18.45%,
+      rgba(176, 42, 42, .8) 49.67%,
+      rgba(176, 42, 42, .56) 82.52%,
+      rgba(176, 42, 42, .196364) 99.7%,
+      rgba(189, 40, 40, 0) 99.71%,
+      rgba(203, 56, 55, 0) 99.72%,
+      rgba(203, 56, 55, .16) 99.73%
+    ),
+    url(https://static-production.npmjs.com/abf53a31b2da4657a1a004ee9358551c.png);
+    height: 100vh;
+   padding: 100px;
+}
+h1{
+    font-size: 5rem;
+    padding-left: 400px;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p2{
+    color: #fff;
+    padding-left: 400px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p3{
+    color: #fff;
+    padding-left: 400px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 3rem;
+    padding-left: 400px;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#id1{
+    /* padding: 20px 800px 20px 20px; */    
+    border-radius: 30px;
+    padding: 15px 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: #ffc329;
+    border: none;
+   margin-left: 400px;
+}
+#id2{    
+    border-radius: 30px;
+    padding: 15px 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: #cb3837;
+    color:#fff;
+    border: #fff solid;
+}
+img[alt=img1]{
+    margin-left: 700px;
+}
+h3{
+    margin-left:550px ;
+    font-size: 2.5rem;
+    font-family:Poppins, sans-serif;
+    color: rgba(0, 0, 0, 0.782);
+
+}
+.c9{
+    margin-left: 550px;
+    font-family: 'Arimo', sans-serif;
+    color: rgba(0, 0, 0, 0.782);
+}
+img[alt~=img2]{
+   height: 50px;
+   width: 50px;
+   position:static;
+}
+td{
+    height: 50px;
+    width: 5%;
+    justify-content: space-around;
+}
